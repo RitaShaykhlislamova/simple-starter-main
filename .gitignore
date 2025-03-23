@@ -1,0 +1,13 @@
+/.git/
+/**/Thumbs.db
+/**/*.DS_Store
+/**/debug.log
+# Ігнорувати налаштування IDE
+.idea/
+.vscode/
+
+# Ігнорувати системні файли
+*.log
+*.swp
+.DS_Store
+node_modules/
